@@ -9,3 +9,51 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+.bigCounter {
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-size: 7rem;
+}
+
+.one {
+    background-color: #0d0d0d;
+    border: 2px solid #161616;
+    border-radius: 7px;
+    padding: 2px 20px;
+    margin: 15px;
+}
+
+.two {
+    background-color: #0d0d0d;
+    border: 2px solid #161616;
+    border-radius: 7px;
+    padding: 2px 20px;
+    margin: 15px;
+}
+
+.three {
+    background-color: #0d0d0d;
+    border: 2px solid #161616;
+    border-radius: 7px;
+    padding: 2px 20px;
+    margin: 15px;
+}
+
+.four {
+    background-color: #0d0d0d;
+    border: 2px solid #161616;
+    border-radius: 7px;
+    padding: 2px 20px;
+    margin: 15px;
+}
+
+.fa-clock {
+    background-color: #0d0d0d;
+    border: 2px solid #161616;
+    border-radius: 7px;
+    padding: 33px 20px;
+    margin: 15px;
+}
