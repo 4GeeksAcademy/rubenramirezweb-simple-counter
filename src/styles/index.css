@@ -18,6 +18,15 @@
     font-size: 7rem;
 }
 
+.zero {
+    color: red;
+}
+
+/* @keyframes blink {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0; }
+} */
+
 .one {
     background-color: #0d0d0d;
     border: 2px solid #161616;
@@ -54,6 +63,21 @@
     background-color: #0d0d0d;
     border: 2px solid #161616;
     border-radius: 7px;
-    padding: 33px 20px;
+    padding: 44px 20px;
     margin: 15px;
+}
+
+.seconds {
+    text-align: center;
+    font-size: 17px;
+}
+
+.minutes {
+    text-align: center;
+    font-size: 17px;
+}
+
+.hours {
+    text-align: center;
+    font-size: 17px;
 }
