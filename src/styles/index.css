@@ -22,11 +22,6 @@
     color: red;
 }
 
-/* @keyframes blink {
-    0%, 100% { opacity: 1; }
-    50% { opacity: 0; }
-} */
-
 .one {
     background-color: #0d0d0d;
     border: 2px solid #161616;

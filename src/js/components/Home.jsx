@@ -14,7 +14,7 @@ function Home() {
             }, 100);
         }
 
-        // Limpiar el intervalo
+        // Limpia el intervalo
         return () => clearInterval(timer);
     }, [isActive]);
 
